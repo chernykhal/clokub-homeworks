@@ -1,9 +1,9 @@
 variable "yandex_cloud_id" {
-  default = "b1ga4odn0i44r8qgorf8"
+  default = "b1g4dkqda3n9tf715ll4"
 }
 
 variable "yandex_folder_id" {
-  default = "b1gc33n2kn0qsjgcmia2"
+  default = "b1ghbqrg7muqomhugc6i"
 }
 
 variable "a-zone" {
@@ -23,7 +23,7 @@ variable "ubuntu-2004-lts" {
 }
 
 variable "domain" {
-  default = "netology.cloud"
+  default = "netology"
 }
 
 variable "nat-instance-name" {
